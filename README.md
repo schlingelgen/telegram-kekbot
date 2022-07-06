@@ -1,4 +1,4 @@
 # telegram-kekbot
 
-Telegram bot for the monthly determination of the biggest kek (meaning: wannabe/loser).   
-Originally created to jokingly track and punish unnecessary actions of fellow students.
+Telegram bot for the identifying the biggest kek, which could be losely translated to douche, every month.  
+Created to jokingly track and punish inappropriate behavior of fellow students (and me).
